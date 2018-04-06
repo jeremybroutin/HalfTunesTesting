@@ -10,7 +10,7 @@ It covers:
 * code coverage
 
 ### Screenshot(s)
-<img src="https://github.com/jeremybroutin/HalfTunes/blob/master/haltunes_ss.png" width="200px">
+<img src="https://github.com/jeremybroutin/HalfTunesTesting/blob/master/haltunes_ss.png" width="200px">
 
 [1]: https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial
 
